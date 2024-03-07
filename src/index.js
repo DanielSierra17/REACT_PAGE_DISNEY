@@ -8,12 +8,12 @@ import Login from "./components/Login/login";
 import Home from "./components/Home/home";
 import ContentDetails from './components/contentDetails/contentDetails';
 import ContentCategory from './components/contentCategory/contentCategory';
-import {Nav} from './components/Nav/Nav'
+import { Nav } from './components/Nav/Nav'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
-    <Nav/>
+
     <Routes>
       <Route path='/login' element={<Login />} />
       <Route path='/home' element={<Home />} />
