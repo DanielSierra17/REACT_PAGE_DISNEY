@@ -1,0 +1,139 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Pixar",
+      "description": "Películas y contenidos relacionados con Pixar Animation Studios.",
+      "img": "https://tentulogo.com/wp-content/uploads/2018/07/pixar-logo.jpg",
+      "titles": [
+        "Toy Story",
+        "Buscando a Nemo",
+        "Los Increíbles",
+        "Coco",
+        "Monsters, Inc.",
+        "Ratatouille",
+        "Wall-E",
+        "Up",
+        "Brave",
+        "Inside Out",
+        "El Viaje de Arlo",
+        "Cars",
+        "Valiente",
+        "Toy Story 2",
+        "Toy Story 3"
+      ],
+      "video": "https://youtu.be/gX0CmJa5Gdk",
+      "synopsis": "Desde su primera película, Toy Story, Pixar Animation Studios ha cautivado al público con su habilidad para crear mundos animados vívidos y personajes entrañables. Cada película de Pixar es una aventura emocional que explora temas profundos como la amistad, el crecimiento personal y el significado de la vida. Ya sea explorando el mundo de los juguetes, los monstruos en el armario o las emociones dentro de la mente humana, las películas de Pixar trascienden las barreras generacionales para tocar el corazón de jóvenes y adultos por igual."
+    },
+    {
+      "id": 2,
+      "name": "Disney",
+      "description": "Películas y contenidos relacionados con The Walt Disney Company.",
+      "img": "https://wallpapers.com/images/featured/disney-logo-sw1oz184d480tq37.jpg",
+      "titles": [
+        "El Rey León",
+        "La Bella y la Bestia",
+        "Aladdín",
+        "Frozen",
+        "El Libro de la Selva",
+        "La Sirenita",
+        "Mulan",
+        "Pocahontas",
+        "Hércules",
+        "La Dama y el Vagabundo",
+        "Bambi",
+        "Peter Pan",
+        "Blancanieves y los Siete Enanitos",
+        "Tiana y el Sapo",
+        "La Cenicienta"
+      ],
+      "video": "https://youtu.be/cvDxdUcxPUE",
+      "synopsis": "El universo Disney es un mosaico de cuentos de hadas, aventuras épicas y magia que ha encantado a generaciones enteras. Desde la creación de Mickey Mouse hasta los éxitos cinematográficos más recientes, Disney ha sido un pionero en la narración de historias que inspiran y deleitan a personas de todas las edades. Ya sea explorando reinos mágicos con princesas encantadas o acompañando a héroes valientes en sus viajes, las películas y parques temáticos de Disney ofrecen un escape a mundos de imaginación y maravilla."
+    },
+    {
+      "id": 3,
+      "name": "Marvel",
+      "description": "Películas y contenidos relacionados con Marvel Studios.",
+      "img": "https://p4.wallpaperbetter.com/wallpaper/110/294/492/comics-marvel-comics-logo-red-wallpaper-preview.jpg",
+      "titles": [
+        "Los Vengadores",
+        "Black Panther",
+        "Iron Man",
+        "Guardianes de la Galaxia",
+        "Capitán América: El Primer Vengador",
+        "Thor",
+        "Doctor Strange",
+        "Ant-Man",
+        "Spider-Man: Homecoming",
+        "Hulk",
+        "Capitana Marvel",
+        "Los Cuatro Fantásticos",
+        "Deadpool",
+        "X-Men",
+        "Blade"
+      ],
+      "video": "https://youtu.be/tXXQOC4HugE",
+      "synopsis": "El universo cinematográfico de Marvel ha redefinido el género de superhéroes con su interconectividad, acción emocionante y personajes complejos. Desde el ascenso de Iron Man hasta la épica conclusión de Avengers: Endgame, las películas de Marvel han llevado a los espectadores a través de un viaje emocionante lleno de batallas épicas, dilemas morales y emociones intensas. Con una amplia variedad de superhéroes y villanos, el MCU ha creado un mundo cinematográfico vibrante que sigue cautivando a audiencias de todo el mundo."
+    },
+    {
+      "id": 4,
+      "name": "Series",
+      "description": "Series de televisión de diversas temáticas y géneros.",
+      "img": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejores-series-disney-plus-2021-2464653.jpg?tf=3840x",
+      "titles": [
+        "Stranger Things",
+        "Breaking Bad",
+        "Juego de Tronos",
+        "Friends",
+        "The Mandalorian",
+        "The Office",
+        "Sherlock",
+        "Rick and Morty",
+        "The Crown",
+        "Black Mirror",
+        "Narcos",
+        "Dark",
+        "Westworld",
+        "The Witcher",
+        "Peaky Blinders"
+      ],
+      "video": "https://youtu.be/cvDxdUcxPUE",
+      "synopsis": "Las series originales de Disney ofrecen una amplia variedad de entretenimiento para todas las edades y gustos. Desde comedias familiares hasta dramas adolescentes, estas series exploran temas relevantes mientras mantienen a los espectadores enganchados con personajes entrañables y tramas emocionantes. Ya sea siguiendo las aventuras de adolescentes con habilidades sobrenaturales, explorando mundos fantásticos o simplemente disfrutando de la vida cotidiana de una familia disfuncional, las series de Disney ofrecen una experiencia de visualización diversa y emocionante."
+    },
+    {
+      "id": 5,
+      "name": "Documentales",
+      "description": "Documentales sobre diversos temas y áreas de interés.",
+      "img": "https://1000logos.net/wp-content/uploads/2017/04/national-geographic-symbol.jpg",
+      "titles": [
+        "Our Planet",
+        "Making a Murderer",
+        "Cosmos: A Spacetime Odyssey",
+        "The Social Dilemma",
+        "13th",
+        "The Vietnam War",
+        "Planet Earth",
+        "The Last Dance",
+        "Won't You Be My Neighbor?",
+        "Fyre",
+        "Tiger King",
+        "The Act of Killing",
+        "The Cove",
+        "Jiro Dreams of Sushi",
+        "March of the Penguins"
+      ],
+      "video": "https://youtu.be/wWq1IfVSmhk",
+      "synopsis": "National Geographic ha sido un líder en la exploración y la divulgación científica durante décadas, llevando a los espectadores a lugares remotos y ofreciéndoles una ventana a la belleza y la complejidad del mundo natural. Desde las profundidades del océano hasta las cumbres de las montañas más altas, los documentales de National Geographic ofrecen una experiencia inmersiva que educa, inspira y asombra. Con imágenes impresionantes y narraciones cautivadoras, National Geographic transporta a los espectadores a lugares y culturas que de otra manera podrían no experimentar."
+    }
+  ],
+  "users": [
+    {
+      "username": "yellow6355hippo@gmail.com",
+      "password": "y6355ad922v"
+    },
+    {
+      "username": "aurora1002tan@hotmail.com",
+      "password": "a1002wj802s"
+    }
+  ]
+}
